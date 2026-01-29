@@ -1,5 +1,5 @@
 # Sentiment_Analysis
-Mental Health_ Sentiment Anlaysis
+Mental Health Sentiment Analysis
 
 
 # Sentiment Analysis of Mental Health Text Data
