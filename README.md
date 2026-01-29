@@ -87,7 +87,7 @@ or quoted speech rather than emotional state.
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-mental-health.git
+git clone https://github.com/sharmai309/Sentiment_Analysis
 cd sentiment-analysis-mental-health
 pip install -r requirements.txt
 jupyter notebook
